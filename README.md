@@ -251,12 +251,20 @@ This is a more involved journey, typically broken down into stages.
 
 Remember, "sweating ove" [1] the details of integration and configuration is where the real work lies. The goal is to make AI a force multiplier, not a replacement for human expertise and critical thinking.
 
-## Sources and Methodology
+---
 
-My methodology for this guide relies heavily on the direct experiences and observations shared by DevOps practitioners in the r/devops community thread. I have synthesized these qualitative reports into comparative insights, making sure to cite individual comments and their upvote counts as indicators of community resonance, while explicitly stating that these are not independently verified benchmarks. I also drew upon general knowledge of current LLM capabilities and common IaC practices.
+## Sources and Links
 
-1.  User comment, r/devops thread, 27 upvotes, not independently verified.
-2.  User comment, r/devops thread, 6 upvotes, not independently verified.
-3.  User comment, r/devops thread, 3 upvotes, not independently verified.
-4.  User comment, r/devops thread, 3 upvotes, not independently verified.
-5
+**Primary source:** [How much of your Terraform/CloudFormation is written by AI](https://reddit.com/r/devops/comments/1thzi13/) (Reddit thread)
+
+**Official documentation:**
+
+- [Terraform by HashiCorp](https://www.terraform.io/)
+- [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- [Pulumi](https://www.pulumi.com/)
+
+**Methodology:** Community comments were scraped and classified by type. Upvote counts are noted but do not constitute independent verification. All community claims are flagged as unverified.
+
+## License
+
+MIT
