@@ -299,3 +299,5 @@ For now, the actionable strategy is clear: **Start small, iterate with purpose, 
 Found an error or have better benchmarks? PRs welcome! This guide improves with community input.
 
 Originally inspired by [this discussion](https://reddit.com/r/devops/comments/1thzi13/).
+
+> Part of [Community Dev Guides](https://github.com/essentialols/community-dev-guides) - a curated collection of community-driven developer guides.
